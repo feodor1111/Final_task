@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Feodor\\OneDrive\\Рабочий стол\\Новая папка\\Итоговая_контрольная\\final_project\\final_project.csproj": {}
+    "C:\\Users\\Feodor\\Desktop\\Итоговая_контрольная\\final_project\\final_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Feodor\\OneDrive\\Рабочий стол\\Новая папка\\Итоговая_контрольная\\final_project\\final_project.csproj": {
+    "C:\\Users\\Feodor\\Desktop\\Итоговая_контрольная\\final_project\\final_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Feodor\\OneDrive\\Рабочий стол\\Новая папка\\Итоговая_контрольная\\final_project\\final_project.csproj",
+        "projectUniqueName": "C:\\Users\\Feodor\\Desktop\\Итоговая_контрольная\\final_project\\final_project.csproj",
         "projectName": "final_project",
-        "projectPath": "C:\\Users\\Feodor\\OneDrive\\Рабочий стол\\Новая папка\\Итоговая_контрольная\\final_project\\final_project.csproj",
+        "projectPath": "C:\\Users\\Feodor\\Desktop\\Итоговая_контрольная\\final_project\\final_project.csproj",
         "packagesPath": "C:\\Users\\Feodor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Feodor\\OneDrive\\Рабочий стол\\Новая папка\\Итоговая_контрольная\\final_project\\obj\\",
+        "outputPath": "C:\\Users\\Feodor\\Desktop\\Итоговая_контрольная\\final_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Feodor\\AppData\\Roaming\\NuGet\\NuGet.Config"
